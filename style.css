@@ -35,7 +35,7 @@
  .list {
      text-align: center;
      color: #ffffff;
-     width: 75%;
+     width: 80%;
      
 
  }
@@ -92,6 +92,6 @@ label:hover{
      color: #eb7e7f;
      font-size: 24px;
      padding: 2%;
-     margin: 50px;
+     margin: 38px;
      width: 75%;
  }
